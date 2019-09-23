@@ -3,13 +3,12 @@
 ```
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/IndonesianSecurity/kkktp
+$ git clone https://github.com/flyngdutchman/kkktp
 $ cd kkktp
 $ ls
 $ php kkktp.php
 ```
-# Autor
-Greyanonymous  
+# Recode OwL & Dominitriz
 
 # Spesial Thank
 Indonesian Security || Indoxploit
